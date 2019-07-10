@@ -34,4 +34,6 @@
 - in order to apply one of the following criteria must also be met: $25m+ annual revenue, possess personal data of >50,000 "consumers, households, or devices," earn more than half annual revenue selling consumers' personal data [link](https://www.dickinson-wright.com/news-alerts/californias-data-privacy-law)
 
 
-### consequences
+### Distinctions/ definitions
+
+- a broad, potentially overinclusive definition of "personal information" -- includes gender info/ anything "capable of being associated with" a particular consumer when combined with other datasets. [link](https://www.jdsupra.com/legalnews/will-ccpa-be-a-dumpster-fire-for-those-79549/### consequences)
