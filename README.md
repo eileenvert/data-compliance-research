@@ -1,5 +1,18 @@
 # data-compliance-research
 
+## Miscellaneous legislation and the lines of thought revealed(passed or not)
+
+### NYC's failed law (NYPA)-- estabishing data collectors as information fiduciaries
+- would extend the already-existing concept of a fiduciary into the context of data privacy
+- "information fiduciary" rules would strengthen the ability of an individual customer to sue over misuse of their data, and place more responsibility on data-using companies to 
+- "fiduciaries" are generally people in professions that give them asymmetrical economic power over their customers duw to their being entrusted with sensitive information in the course of their job. Ex: doctors, lawyers, accountants... [link](https://www.eff.org/deeplinks/2018/10/information-fiduciaries-must-protect-your-data-privacy)
+- empahsizes the trust relationship, forefronts the consumer
+
+### Oregon's bill that would have allowed consumers to monetize their health data
+- would give patients a cut of the money that organizations make from their de-identified health data
+- woud require providers to get signed authorization before selling de-identified info [link](https://www.benefitspro.com/2019/02/05/oregon-bill-would-allow-consumers-to-monetize-health-data/?slreturn=20190617190230)
+- 
+
 ## GDPR 
 
 ### notes on intent/ forward-looking 
