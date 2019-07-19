@@ -11,7 +11,8 @@
 ### Oregon's bill that would have allowed consumers to monetize their health data
 - would give patients a cut of the money that organizations make from their de-identified health data
 - woud require providers to get signed authorization before selling de-identified info [link](https://www.benefitspro.com/2019/02/05/oregon-bill-would-allow-consumers-to-monetize-health-data/?slreturn=20190617190230)
-- 
+- an ecosystem based on the giving and selling of personal data already exists, and a bill like this would in theory loop the consumer into recieving the material value of their data. However, this also ratifies a system that would likely disadvantage those not in the position to deny a new small income stream--putting people with fewer resources at more risk of privacy loss. If privacy is a right then this is unethical. [link](https://advocacy.consumerreports.org/wp-content/uploads/2019/04/CR-letter-re-Oregon-digital-dividends.pdf)
+
 
 ## GDPR (and the UK's mirrored Data Protection Act)
 
@@ -58,6 +59,7 @@
 ### notes on intent
 - focuses heavily on consumers' rights to control the use of their data. Includes the right to: know *whether* info collected, request the specific categories of information a business collects, know *what* info collected, decline the sale of info, request deletion of personal information, **equality of service and price even when these rights are exercised**, . Implements a default to non-collection for children under 16 years old. 
 - ensures that consumers have the ability to opt out--requires that there be a clear and visible button that says "do not sell my personal information"
+- heavy focus on transparency obligations 
 
 ### Scope
 - applies to businesses that collect information in california or sell goods and services in California-- even if not located there
@@ -73,3 +75,7 @@
 
 - "Under Swiss data protection law, the term ‘person’ encompasses both individuals and legal entities, although this inclusion of legal entities may disappear under the revised act."
 - "In general, a data subject’s consent is not required in order for data processing to be admissible. However, consent may justify data processing that would otherwise be unlawful. "
+
+
+
+[GDPR vs CCPA](https://fpf.org/wp-content/uploads/2018/11/GDPR_CCPA_Comparison-Guide.pdf)
